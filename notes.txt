@@ -1,0 +1,12 @@
+Name: dwlml
+import dwlml as ml
+
+dwlml.data
+(data generation tools)
+(include batchifying)
+
+dwlml.vis [later addition]
+(visualizations) 
+
+dwlml.nn
+(neural networks)
